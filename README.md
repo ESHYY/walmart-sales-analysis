@@ -8,6 +8,8 @@ The workflow begins with cleaning and preparing the raw dataset using **Pandas**
 
 The project helped me strengthen my understanding of data cleaning, SQL analysis, and organizing a complete analytics project using Git and GitHub.
 
+![Demo](screenshots/Screenshot%202026-07-15%20002353.png)
+
 ---
 
 ## Tools & Technologies
