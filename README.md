@@ -21,6 +21,16 @@ The project helped me strengthen my understanding of data cleaning, SQL analysis
 - MySQL Workbench
 - Git
 - GitHub
+- Business Analysis
+
+---
+
+## Key Insights
+
+- Food & Beverages received the highest average customer ratings.
+- Health & Beauty generated one of the highest profits.
+- Payment preferences varied across branches.
+- Revenue trends were analyzed across multiple years.
 
 ---
 
